@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Restorant/static/css/main.e715b04e.css",
+    "main.js": "/Restorant/static/js/main.bfcb6272.js",
+    "static/media/about.png": "/Restorant/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/banner.png": "/Restorant/static/media/banner.192d127276189eb9c330.png",
+    "static/media/footer.png": "/Restorant/static/media/footer.53806b7daa8d1ecfff9d.png",
+    "static/media/s1.png": "/Restorant/static/media/s1.8a4fa4559949141455f1.png",
+    "static/media/s2.png": "/Restorant/static/media/s2.b0665d1810c1ae19dfa3.png",
+    "index.html": "/Restorant/index.html",
+    "main.e715b04e.css.map": "/Restorant/static/css/main.e715b04e.css.map",
+    "main.bfcb6272.js.map": "/Restorant/static/js/main.bfcb6272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e715b04e.css",
+    "static/js/main.bfcb6272.js"
+  ]
+}
